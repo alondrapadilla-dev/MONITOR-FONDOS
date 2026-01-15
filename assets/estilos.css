@@ -1,0 +1,29 @@
+/* Identidad institucional – Secretaría de Finanzas Guanajuato */
+
+body {
+    background-color: white;
+}
+
+.titulo-principal {
+    color: #003A8F;
+    font-weight: 700;
+}
+
+.subtitulo {
+    color: #1F5FBF;
+    font-weight: 600;
+}
+
+.tarjeta {
+    background-color: #EAF1FB;
+    border-left: 6px solid #003A8F;
+    padding: 16px;
+    border-radius: 8px;
+    margin-bottom: 16px;
+}
+
+.comentario {
+    font-size: 0.9rem;
+    color: #4A4A4A;
+    font-style: italic;
+}
